@@ -1,0 +1,111 @@
+{
+  "dataset": "royalty-free generated test data",
+  "version": 1,
+  "generatedAt": "2026-04-28T00:00:00-04:00",
+  "items": [
+    {
+      "id": "json-001",
+      "name": "Sample Record 1",
+      "active": true,
+      "score": 73.875,
+      "tags": [
+        "test",
+        "upload"
+      ]
+    },
+    {
+      "id": "json-002",
+      "name": "Sample Record 2",
+      "active": true,
+      "score": 75.25,
+      "tags": [
+        "test",
+        "upload",
+        "metadata"
+      ]
+    },
+    {
+      "id": "json-003",
+      "name": "Sample Record 3",
+      "active": false,
+      "score": 76.625,
+      "tags": [
+        "test"
+      ]
+    },
+    {
+      "id": "json-004",
+      "name": "Sample Record 4",
+      "active": true,
+      "score": 78.0,
+      "tags": [
+        "test",
+        "upload"
+      ]
+    },
+    {
+      "id": "json-005",
+      "name": "Sample Record 5",
+      "active": true,
+      "score": 79.375,
+      "tags": [
+        "test",
+        "upload",
+        "metadata"
+      ]
+    },
+    {
+      "id": "json-006",
+      "name": "Sample Record 6",
+      "active": false,
+      "score": 80.75,
+      "tags": [
+        "test"
+      ]
+    },
+    {
+      "id": "json-007",
+      "name": "Sample Record 7",
+      "active": true,
+      "score": 82.125,
+      "tags": [
+        "test",
+        "upload"
+      ]
+    },
+    {
+      "id": "json-008",
+      "name": "Sample Record 8",
+      "active": true,
+      "score": 83.5,
+      "tags": [
+        "test",
+        "upload",
+        "metadata"
+      ]
+    },
+    {
+      "id": "json-009",
+      "name": "Sample Record 9",
+      "active": false,
+      "score": 84.875,
+      "tags": [
+        "test"
+      ]
+    },
+    {
+      "id": "json-010",
+      "name": "Sample Record 10",
+      "active": true,
+      "score": 86.25,
+      "tags": [
+        "test",
+        "upload"
+      ]
+    }
+  ],
+  "notes": {
+    "purpose": "Parser, upload, preview, indexing, and schema handling tests.",
+    "license": "Generated locally for royalty-free test use."
+  }
+}
